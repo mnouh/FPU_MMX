@@ -1,0 +1,112 @@
+#---------------------------TEST  ----------------------#
+[5721 mnouh@mnouh-Think ...ture Completed Labs/lab6 ]%./test
+Enter a Phrase: Helloworld
+You entered:Helloworld
+Size: 10
+Enter a Phrase: adlfuworcbad
+You entered:adlfuworcbad
+Size: 12
+Enter a Phrase: cmnopbacldbpnOCDlcqRsTca
+You entered:cmnopbacldbpnOCDlcqRsTca
+Size: 24
+Enter a Phrase: 1234567887654321
+You entered:1234567887654321
+Size: 16
+Enter a Phrase: bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+You entered:bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+Size: 55
+
+#---------------------------TEST 2 ----------------------#
+
+[5723 mnouh@mnouh-Think ...ture Completed Labs/lab6 ]%./test2
+Enter a Phrase: Helloworld
+You entered:Helloworld
+Size: 10
+Enter a Phrase: adlfuworcbad
+You entered:adlfuworcbad
+Size: 12
+Enter a Phrase: cmnopbacldbpnOCDlcqRsTca
+You entered:cmnopbacldbpnOCDlcqRsTca
+Size: 24
+Enter a Phrase: 1234567887654321
+You entered:1234567887654321
+Size: 16
+Enter a Phrase: bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+You entered:bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+Size: 55
+
+#---------------------------TEST 3 ----------------------#
+
+[5724 mnouh@mnouh-Think ...ture Completed Labs/lab6 ]%./test3
+Enter a Phrase: Helloworld
+You entered:Helloworld
+Size: 3
+Enter a Phrase: adlfuworcbad
+You entered:adlfuworcbad
+Size: 4
+Enter a Phrase: cmnopbacldbpnOCDlcqRsTca
+You entered:cmnopbacldbpnOCDlcqRsTca
+Size: 4
+Enter a Phrase: 1234567887654321
+You entered:1234567887654321
+Size: 0
+Enter a Phrase: bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+You entered:bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+Size: 0
+
+#---------------------------TEST 4 ----------------------#
+
+[5726 mnouh@mnouh-Think ...ture Completed Labs/lab6 ]%./test4
+Enter a Phrase: Helloworld
+You entered:hELLOWORLD
+Size: 10
+Enter a Phrase: adlfuworcbad
+You entered:ADLFUWORCBAD
+Size: 12
+Enter a Phrase: cmnopbacldbpnOCDlcqRsTca
+You entered:CMNOPBACLDBPNocdLCQrStCA
+Size: 24
+Enter a Phrase: 1234567887654321
+You entered:1234567887654321
+Size: 16
+Enter a Phrase: bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+You entered:BC12CFBL21C12CFBL21C12CFBL21C12CFBL21C12CFBL21C12CFBL21
+Size: 55
+
+#THIS IS JUST THE FPU, MY TEST6 IS FPU AND MMX
+#---------------------------TEST 5 ----------------------#
+[5727 mnouh@mnouh-Think ...ture Completed Labs/lab6 ]%./test5
+Enter a Phrase: Helloworld
+You entered:Helloworld
+Size: 105
+Enter a Phrase: adlfuworcbad
+You entered:adlfuworcbad
+Size: 105
+Enter a Phrase: cmnopbacldbpnOCDlcqRsTca
+You entered:cmnopbacldbpnOCDlcqRsTca
+Size: 99
+Enter a Phrase: 1234567887654321
+You entered:1234567887654321
+Size: 52
+Enter a Phrase: bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+You entered:bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+Size: 79
+[5728 mnouh@mnouh-Think ...ture Completed Labs/lab6 ]%
+#---------------------------TEST 6 ----------------------#
+
+[5728 mnouh@mnouh-Think ...ture Completed Labs/lab6 ]%./test6
+Enter a Phrase: Helloworld
+You entered:Ifmmpxpsme
+Size: 105
+Enter a Phrase: adlfuworcbad
+You entered:bemgvxpsdcbe
+Size: 105
+Enter a Phrase: cmnopbacldbpnOCDlcqRsTca
+You entered:dnopqcbdmecqoPDEmdrStUdb
+Size: 99
+Enter a Phrase: 1234567887654321
+You entered:2345678998765432
+Size: 52
+Enter a Phrase: bc12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21c12cfbl21
+You entered:cd23dgcm32d23dgcm32d23dgcm32d23dgcm32d23dgcm32d23dgcm32
+Size: 79
